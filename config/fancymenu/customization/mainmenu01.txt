@@ -215,14 +215,14 @@ customization {
   label = 
   vr:showif:singleplayer = false
   loopbackgroundanimations = true
-  x = -139
-  width = 278
+  x = -130
+  width = 260
   actionid = 2c802c96-c186-4603-9150-d551da8a7e531653286928932
   action = addbutton
-  y = 21
+  y = 15
   backgroundnormal = halara\title.png
   value = test.halara.net
-  height = 62
+  height = 58
 }
 
 customization {
