@@ -1,0 +1,26 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.IngameMenuScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  path = halara/logo-512b.png
+  orientation = top-centered
+  x = -36
+  width = 72
+  action = addtexture
+  actionid = 524c5e99-8695-4c3c-8b6e-5b987af2b3a61654488932780
+  y = 15
+  height = 72
+}
+
