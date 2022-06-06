@@ -24,7 +24,7 @@ customization {
   orientation = mid-centered
   x = -100
   action = movebutton
-  y = -31
+  y = -21
 }
 
 customization {
@@ -32,8 +32,8 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
-  backgroundhovered = halara\button-clicked.png
-  backgroundnormal = halara\button.png
+  backgroundhovered = halara\buttons\large\1.png
+  backgroundnormal = halara\buttons\large\0.png
 }
 
 customization {
@@ -41,7 +41,7 @@ customization {
   orientation = mid-centered
   x = 104
   action = movebutton
-  y = 29
+  y = 39
 }
 
 customization {
@@ -55,16 +55,33 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
-  backgroundhovered = halara\language-clicked.png
-  backgroundnormal = halara\language.png
+  backgroundhovered = halara\buttons\accessibility\1.png
+  backgroundnormal = halara\buttons\accessibility\0.png
+}
+
+customization {
+  identifier = %id=376322%
+  orientation = mid-centered
+  x = -124
+  action = movebutton
+  y = 3
+}
+
+customization {
+  identifier = %id=376322%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = halara\buttons\create\1.png
+  backgroundnormal = halara\buttons\create\0.png
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   orientation = mid-centered
-  x = -99
+  x = -100
   action = movebutton
-  y = 29
+  y = 39
 }
 
 customization {
@@ -72,8 +89,8 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
-  backgroundhovered = halara\button-small-clicked.png
-  backgroundnormal = halara\button-small.png
+  backgroundhovered = halara\buttons\medium\1.png
+  backgroundnormal = halara\buttons\medium\0.png
 }
 
 customization {
@@ -81,7 +98,7 @@ customization {
   orientation = mid-centered
   x = 2
   action = movebutton
-  y = 29
+  y = 39
 }
 
 customization {
@@ -89,8 +106,8 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
-  backgroundhovered = halara\button-small-clicked.png
-  backgroundnormal = halara\button-small.png
+  backgroundhovered = halara\buttons\medium\1.png
+  backgroundnormal = halara\buttons\medium\0.png
 }
 
 customization {
@@ -98,7 +115,7 @@ customization {
   orientation = mid-centered
   x = -124
   action = movebutton
-  y = 29
+  y = 39
 }
 
 customization {
@@ -112,8 +129,8 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
-  backgroundhovered = halara\accessibility-clicked.png
-  backgroundnormal = halara\accessibility.png
+  backgroundhovered = halara\buttons\language\1.png
+  backgroundnormal = halara\buttons\language\0.png
 }
 
 customization {
@@ -121,7 +138,7 @@ customization {
   orientation = mid-centered
   x = -100
   action = movebutton
-  y = -55
+  y = -45
 }
 
 customization {
@@ -129,8 +146,8 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
-  backgroundhovered = halara\button-clicked.png
-  backgroundnormal = halara\button.png
+  backgroundhovered = halara\buttons\large\1.png
+  backgroundnormal = halara\buttons\large\0.png
 }
 
 customization {
@@ -138,7 +155,7 @@ customization {
   orientation = mid-centered
   x = -100
   action = movebutton
-  y = -7
+  y = 3
 }
 
 customization {
@@ -146,8 +163,8 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
-  backgroundhovered = halara\button-small-clicked.png
-  backgroundnormal = halara\button-small.png
+  backgroundhovered = halara\buttons\medium\1.png
+  backgroundnormal = halara\buttons\medium\0.png
 }
 
 customization {
@@ -155,7 +172,7 @@ customization {
   orientation = mid-centered
   x = 2
   action = movebutton
-  y = -7
+  y = 3
 }
 
 customization {
@@ -163,8 +180,31 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
-  backgroundhovered = halara\button-small-clicked.png
-  backgroundnormal = halara\button-small.png
+  backgroundhovered = halara\buttons\medium\1.png
+  backgroundnormal = halara\buttons\medium\0.png
+}
+
+customization {
+  identifier = %id=376346%
+  orientation = mid-centered
+  x = 104
+  action = movebutton
+  y = 3
+}
+
+customization {
+  identifier = %id=376346%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=376346%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = halara\buttons\quark\1.png
+  backgroundnormal = halara\buttons\quark\0.png
 }
 
 customization {
