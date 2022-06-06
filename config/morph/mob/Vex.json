@@ -15,12 +15,7 @@
       "nearRunSpeed": 0.5
     },
     {
-      "type": "abilityFlightFlap",
-      "slowdownInWater": true
-    },
-    {
       "type": "abilityFlight",
-      "upgradeFor": "abilityFlightFlap",
       "slowdownInWater": true
     }
   ]

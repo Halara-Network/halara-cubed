@@ -14,7 +14,6 @@
     },
     {
       "type": "abilityFlight",
-      "upgradeFor": "abilityFlightFlap",
       "slowdownInWater": true
     }
   ]
