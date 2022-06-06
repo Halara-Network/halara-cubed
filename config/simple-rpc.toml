@@ -19,11 +19,11 @@
 	#Enable/Disable the Game Loading Event
 	enabled = true
 	#The first line of text under the app name
-	description = "%mods% total mods installed"
+	description = ""
 	#The second line of text under the app name
-	state = "Currently loading  game..."
+	state = "Currently loading game..."
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "https://i.imgur.com/RrZPxCX.png"
+	largeImageKey = "https://i.imgur.com/Gp0gAdc.png"
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "A modpack for Minecraft %mcver%"
 	#The Asset ID of the image to display as the small image
@@ -33,7 +33,7 @@
 	#The buttons to display on Discord
 	[[init.buttons]]
 		label = "Download Modpack"
-		url = "https://www.curseforge.com/minecraft/modpacks/halara-the-modpack/"
+		url = "https://www.curseforge.com/minecraft/modpacks/halara-cubed/"
 
 #The Main Menu event
 [main_menu]
@@ -44,7 +44,7 @@
 	#The second line of text under the app name
 	state = "In the Main Menu"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "https://i.imgur.com/RrZPxCX.png"
+	largeImageKey = "https://i.imgur.com/Gp0gAdc.png"
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "A modpack for Minecraft %mcver%"
 	#The Asset ID of the image to display as the small image
@@ -54,7 +54,7 @@
 	#The buttons to display on Discord
 	[[main_menu.buttons]]
 		label = "Download Modpack"
-		url = "https://www.curseforge.com/minecraft/modpacks/halara-the-modpack/"
+		url = "https://www.curseforge.com/minecraft/modpacks/halara-cubed/"
 
 #The Server List event
 [server_list]
@@ -65,7 +65,7 @@
 	#The second line of text under the app name
 	state = "Browsing Multiplayer Servers"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "https://i.imgur.com/RrZPxCX.png"
+	largeImageKey = "https://i.imgur.com/Gp0gAdc.png"
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "A modpack for Minecraft %mcver%"
 	#The Asset ID of the image to display as the small image
@@ -75,7 +75,7 @@
 	#The buttons to display on Discord
 	[[server_list.buttons]]
 		label = "Download Modpack"
-		url = "https://www.curseforge.com/minecraft/modpacks/halara-the-modpack/"
+		url = "https://www.curseforge.com/minecraft/modpacks/halara-cubed/"
 
 #The Realms Screen event
 [realms_list]
@@ -86,7 +86,7 @@
 	#The second line of text under the app name
 	state = "Browsing Multiplayer Realms"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "https://i.imgur.com/RrZPxCX.png"
+	largeImageKey = "https://i.imgur.com/Gp0gAdc.png"
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "A modpack for Minecraft %mcver%"
 	#The Asset ID of the image to display as the small image
@@ -96,7 +96,7 @@
 	#The buttons to display on Discord
 	[[realms_list.buttons]]
 		label = "Download Modpack"
-		url = "https://www.curseforge.com/minecraft/modpacks/halara-the-modpack/"
+		url = "https://www.curseforge.com/minecraft/modpacks/halara-cubed/"
 
 #The Join Game Event
 [join_game]
@@ -107,7 +107,7 @@
 	#The second line of text under the app name
 	state = "Joining a World"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "https://i.imgur.com/RrZPxCX.png"
+	largeImageKey = "https://i.imgur.com/Gp0gAdc.png"
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "A modpack for Minecraft %mcver%"
 	#The Asset ID of the image to display as the small image
@@ -117,7 +117,7 @@
 	#The buttons to display on Discord
 	[[join_game.buttons]]
 		label = "Download Modpack"
-		url = "https://www.curseforge.com/minecraft/modpacks/halara-the-modpack/"
+		url = "https://www.curseforge.com/minecraft/modpacks/halara-cubed/"
 
 #The Single Player Event
 [single_player]
@@ -128,7 +128,7 @@
 	#The second line of text under the app name
 	state = "Playing Singleplayer"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "https://i.imgur.com/RrZPxCX.png"
+	largeImageKey = "https://i.imgur.com/Gp0gAdc.png"
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "A modpack for Minecraft %mcver%"
 	#The Asset ID of the image to display as the small image
@@ -138,7 +138,7 @@
 	#The buttons to display on Discord
 	[[single_player.buttons]]
 		label = "Download Modpack"
-		url = "https://www.curseforge.com/minecraft/modpacks/halara-the-modpack/"
+		url = "https://www.curseforge.com/minecraft/modpacks/halara-cubed/"
 
 #The Multi Player Event
 [multi_player]
@@ -149,7 +149,7 @@
 	#The second line of text under the app name
 	state = "Playing Multiplayer"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "https://i.imgur.com/RrZPxCX.png"
+	largeImageKey = "https://i.imgur.com/Gp0gAdc.png"
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "A modpack for Minecraft %mcver%"
 	#The Asset ID of the image to display as the small image
@@ -159,7 +159,7 @@
 	#The buttons to display on Discord
 	[[multi_player.buttons]]
 		label = "Download Modpack"
-		url = "https://www.curseforge.com/minecraft/modpacks/halara-the-modpack/"
+		url = "https://www.curseforge.com/minecraft/modpacks/halara-cubed/"
 
 #The Realms Game Event
 [realms]
@@ -170,7 +170,7 @@
 	#The second line of text under the app name
 	state = "Playing Realms"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "https://i.imgur.com/RrZPxCX.png"
+	largeImageKey = "https://i.imgur.com/Gp0gAdc.png"
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "A modpack for Minecraft %mcver%"
 	#The Asset ID of the image to display as the small image
@@ -180,7 +180,7 @@
 	#The buttons to display on Discord
 	[[realms.buttons]]
 		label = "Download Modpack"
-		url = "https://www.curseforge.com/minecraft/modpacks/halara-the-modpack/"
+		url = "https://www.curseforge.com/minecraft/modpacks/halara-cubed/"
 
 #Fallback event for disabled events
 [generic]
@@ -189,7 +189,7 @@
 	#The second line of text under the app name
 	state = ""
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "https://i.imgur.com/RrZPxCX.png"
+	largeImageKey = "https://i.imgur.com/Gp0gAdc.png"
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "A modpack for Minecraft %mcver%"
 	#The Asset ID of the image to display as the small image
@@ -199,7 +199,7 @@
 	#The buttons to display on Discord
 	[[generic.buttons]]
 		label = "Download Modpack"
-		url = "https://www.curseforge.com/minecraft/modpacks/halara-the-modpack/"
+		url = "https://www.curseforge.com/minecraft/modpacks/halara-cubed/"
 
 #Dimension Information Overrides
 [dimension_overrides]
