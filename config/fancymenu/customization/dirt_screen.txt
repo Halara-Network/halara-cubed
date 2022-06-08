@@ -1,7 +1,7 @@
 type = menu
 
 customization-meta {
-  identifier = net.minecraft.client.gui.screens.GenericDirtMessageScreen
+  identifier = net.minecraft.client.gui.screen.DirtMessageScreen
   randomgroup = 1
   renderorder = foreground
   randommode = false
@@ -14,13 +14,13 @@ customization {
 }
 
 customization {
-  path = halara/gear.png
+  path = halara/warning.png
   orientation = mid-centered
-  x = -50
-  width = 100
+  x = -139
+  width = 279
   action = addtexture
-  actionid = a107878e-7ad8-4818-86b7-a873ba6705d51654223302791
-  y = -30
-  height = 100
+  actionid = c71936a1-e8a1-465d-bfaa-cb0ebfc429cf1654633938637
+  y = 12
+  height = 53
 }
 
