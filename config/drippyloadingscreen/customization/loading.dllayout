@@ -1,0 +1,57 @@
+type = hud
+
+customization-meta {
+  randomgroup = 1
+  keepaspectratio = false
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+  backgroundcolor = 5A6EE0
+}
+
+customization {
+  visible = false
+  action = editlogo
+}
+
+customization {
+  action = editprogressbar
+  barcolor = 3EB9FF
+}
+
+customization {
+  textcolor = 9EAFFF
+  action = editforgememoryinfo
+}
+
+customization {
+  textcolor = 9EAFFF
+  action = editforgestatustext
+}
+
+customization {
+  path = halara/title.png
+  orientation = mid-centered
+  x = 0
+  width = 319
+  action = addtexture
+  actionid = 642460a9-b320-4a96-99ba-2933cf8046051654730502182
+  y = 1
+  height = 80
+}
+
+customization {
+  orientation = mid-centered
+  basecolor = #ffffFF
+  shadow = true
+  splashfilepath = halara/tips.txt
+  rotation = 0.0
+  x = 0
+  actionid = 2ba0884e-834e-4efa-9cb3-a12cb07e63eb1654730736475
+  action = addsplash
+  y = 67
+  scale = 2.0
+  refresh = false
+  bouncing = false
+}
+
