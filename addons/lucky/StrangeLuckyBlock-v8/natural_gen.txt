@@ -1,6 +1,0 @@
->minecraft:overworld
-group(type=structure,ID=strange_fossil_gen;type=block,ID=lucky:strange_lucky_block,NBTTag=(Luck=100),posY=#bPosY+2)@chance=900
->minecraft:the_nether
-group(type=structure,ID=strange_fossil_gen;type=block,ID=lucky:strange_lucky_block,NBTTag=(Luck=100),posY=#bPosY+2)@chance=600
->minecraft:the_end
-group(type=structure,ID=strange_fossil_gen;type=block,ID=lucky:strange_lucky_block,NBTTag=(Luck=100),posY=#bPosY+2)@chance=1000

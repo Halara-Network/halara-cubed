@@ -1,4 +1,0 @@
-block_id=lucky_block_fish
-sword_id=fish_lucky_sword
-bow_id=fish_lucky_bow
-potion_id=fish_lucky_potion

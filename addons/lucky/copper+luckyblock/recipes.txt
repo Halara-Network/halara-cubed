@@ -1,2 +1,0 @@
-/ craft by placing a lucky block in the center and copper around
-ggg,glg,ggg,g,copper_ingot,l,lucky:lucky_block

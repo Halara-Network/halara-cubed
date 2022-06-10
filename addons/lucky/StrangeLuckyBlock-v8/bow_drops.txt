@@ -1,1 +1,0 @@
-type=entity,ID=lucky:lucky_projectile,pos=#bowPos,NBTTag=(Motion=#bowMotion,item=(id=lily_of_the_valley),trail=(frequency=0.01,drops=["type=particle,ID=enchant"]),impact=["group(type=explosion,radius=2;type=entity,ID=lightning_bolt)"],damage=50)

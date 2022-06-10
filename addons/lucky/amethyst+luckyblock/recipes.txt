@@ -1,2 +1,0 @@
-/ craft by placing a lucky block in the center and amethyst shard around
-ggg,glg,ggg,g,amethyst_shard,l,lucky:lucky_block

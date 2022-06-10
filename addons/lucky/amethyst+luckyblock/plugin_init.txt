@@ -1,4 +1,0 @@
-block_id=amethyst_lucky_block
-sword_id=amethyst_lucky_sword
-bow_id=amethyst_lucky_bow
-potion_id=amethyst_lucky_potion

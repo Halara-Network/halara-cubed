@@ -1,4 +1,0 @@
-block_id=copper_lucky_block
-sword_id=copper_lucky_sword
-bow_id=copper_lucky_bow
-potion_id=copper_lucky_potion

@@ -1,2 +1,0 @@
-/ craft by placing a lucky block in the center and chiseled sandstone around and lapis blocks in the corners
-dsd,sls,dsd,s,minecraft:chiseled_sandstone,l,lucky:lucky_block,d,minecraft:lapis_block
