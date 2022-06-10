@@ -1,0 +1,65 @@
+// 2 Luck
+ID=lbp_grabbit,file=lbp/lbp_grabbit.nbt
+ID=donkey_kong_top,file=lbp/donkey_kong_top.nbt
+ID=donkey_kong_bottom,file=lbp/donkey_kong_bottom.nbt
+ID=mini_mushroom_island,file=lbp/mini_mushroom_island.nbt
+ID=player_shoots_to_the_sky,file=lbp/player_shoots_to_the_sky.nbt
+
+// 1 Luck
+ID=lbp_ore_pile,file=lbp/lbp_ore_pile.nbt
+ID=lbp_beanstalk,file=lbp/lbp_beanstalk.nbt
+ID=lbp_mineshaft,file=lbp/lbp_mineshaft.nbt
+ID=mini_mountains,file=lbp/mini_mountains.nbt
+ID=villager_prison,file=lbp/villager_prison.nbt
+ID=lbp_full_rainbow,file=lbp/lbp_full_rainbow.nbt
+ID=lbp_small_island,file=lbp/lbp_small_island.nbt
+ID=mini_aquifer_cave,file=lbp/mini_aquifer_cave.nbt
+ID=lbp_construction_site,file=lbp/lbp_construction_site.nbt
+ID=lbp_deepslate_ore_pile,file=lbp/lbp_deepslate_ore_pile.nbt
+ID=lbp_large_iron_ore_vien,file=lbp/lbp_large_iron_ore_vien.nbt
+ID=lbp_big_dripleaf_parkour,file=lbp/lbp_big_dripleaf_parkour.nbt
+
+// 0 Luck
+ID=heart,file=lbp/heart.nbt
+ID=gamers,file=lbp/gamers.nbt
+ID=mini_end,file=lbp/mini_end.nbt
+ID=lbp_ruins,file=lbp/lbp_ruins.nbt
+ID=lbp_temple,file=lbp/lbp_temple.nbt
+ID=mini_jungle,file=lbp/mini_jungle.nbt
+ID=lbp_rainbow,file=lbp/lbp_rainbow.nbt
+ID=lbp_aquarium,file=lbp/lbp_aquarium.nbt
+ID=lbp_the_hive,file=lbp/lbp_the_hive.nbt
+ID=lbp_mega_dungeon,file=lbp/lbp_mega_dungeon.nbt
+ID=lbp_pink_dungeon,file=lbp/lbp_pink_dungeon.nbt
+ID=pink_lucky_block,file=lbp/pink_lucky_block.nbt
+ID=mini_frozen_ocean,file=lbp/mini_frozen_ocean.nbt
+ID=lbp_old_texture,file,file=lbp/lbp_old_texture.nbt
+ID=lbp_double_dungeon,file=lbp/lbp_double_dungeon.nbt
+ID=mini_warped_forest,file=lbp/mini_warped_forest.nbt
+ID=lbp_non_binary_flag,file=lbp/lbp_non_binary_flag.nbt
+ID=mini_dripstone_cave,file=lbp/mini_dripstone_cave.nbt
+ID=lbp_transgender_flag,file=lbp/lbp_transgender_flag.nbt
+ID=lbp_unfinished_portal,file=lbp/lbp_unfinished_portal.nbt
+ID=lbp_end_portal_room,file,file=lbp/lbp_end_portal_room.nbt
+ID=lbp_large_copper_ore_vien,file=lbp/lbp_large_copper_ore_vien.nbt
+ID=wacky_worlds_parkour_demo,file=lbp/wacky_worlds_parkour_demo.nbt
+
+// -1 Luck
+ID=cloud1,file=lbp/cloud1.nbt
+ID=lbp_greybow,file=lbp/lbp_greybow.nbt
+ID=mini_desert,file=lbp/mini_desert.nbt
+ID=fire_and_ice,file=lbp/fire_and_ice.nbt
+ID=pink_dungeon,file=lbp/pink_dungeon.nbt
+ID=deepslate_dungeon,file=lbp/deepslate_dungeon.nbt
+ID=lbp_blackstone_dungeon,file=lbp/lbp_blackstone_dungeon.nbt
+
+// -2 Luck
+ID=cloud2,file=lbp/cloud2.nbt
+ID=drowned_cage,file=lbp/drowned_cage.nbt
+ID=lbp_haunted_house,file=lbp/lbp_haunted_house.nbt
+ID=mini_basalt_delta,file=lbp/mini_basalt_delta.nbt
+ID=pink_death_dungeon,file=lbp/pink_death_dungeon.nbt
+ID=pink_skeleton_trap,file=lbp/pink_skeleton_trap.nbt
+ID=mini_crimson_forest,file=lbp/mini_crimson_forest.nbt
+ID=mini_ocean_monument,file=lbp/mini_ocean_monument.nbt
+ID=mini_soul_sand_valley,file=lbp/mini_soul_sand_valley.nbt

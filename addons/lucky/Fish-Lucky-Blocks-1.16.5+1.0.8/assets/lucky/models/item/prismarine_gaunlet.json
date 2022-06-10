@@ -1,0 +1,57 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "lucky:block/lucky_block_fish",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "lucky:items/prismarine_cannon",
+		"particle": "lucky:items/prismarine_cannon"
+	},
+	"elements": [
+		{
+			"from": [5.5, 1, 1],
+			"to": [10.5, 6, 10],
+			"faces": {
+				"north": {"uv": [0, 3, 3, 6], "texture": "#0"},
+				"east": {"uv": [5, 0, 0, 3], "texture": "#0"},
+				"south": {"uv": [3, 3, 6, 6], "texture": "#0"},
+				"west": {"uv": [0, 0, 5, 3], "texture": "#0"},
+				"up": {"uv": [5, 0, 10, 3], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [15, 0, 10, 3], "rotation": 90, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 2.5, 5.25]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 2.5, 5.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [24, 27, 1],
+			"translation": [2.75, 4.25, 0.25],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [24, 27, 1],
+			"translation": [2.75, 4.25, 0.25],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"ground": {
+			"translation": [0, 4, 1],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [45, 135, 0],
+			"translation": [1.5, 4.5, 0]
+		},
+		"head": {
+			"translation": [0, 1.75, 0],
+			"scale": [2, 2, 2]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [2.5, 5, 0]
+		}
+	}
+}

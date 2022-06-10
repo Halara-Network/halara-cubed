@@ -1,0 +1,64 @@
+/ Knockback
+group(type=effect,ID=special_knockback,range=6,excludePlayer=true,power=1.8,pos=#pPos,delay=0.1;type=particle,ID=explode,size=(1.0,0.3,1.0),particleAmount=500,pos=#pExactPos)@luck=2
+
+/ Nothing
+type=nothing@luck=0@chance=2
+
+/ lifesteal
+group(type=effect,ID=6,target=player,amplifier=5,duration=1;type=particle,ID=heart,size=(1.0,0.3,1.0),particleAmount=50,pos=#pExactPos)@luck=2
+
+
+/ cleave
+type=effect,ID=potioncore:burst,target=player,amplifier=4,duration=1@luck=2
+
+/ Arrows
+type=entity,ID=Arrow,pos=#pExactPos,posOffsetY=1.5,NBTTag=(Motion=#motionFromDirection(#pYaw+#rand(-10,10),#pPitch+#rand(-10,10),1.0)),amount=50,delay=#rand(0.0,4.0)@luck=2
+
+/ Lightning
+group(type=effect,ID=potioncore:lightning,target=hitEntity,amplifier=2,duration=5)@luck=2
+
+/ Web
+type=entity,ID=LuckyProjectile,pos=#pExactPos,posOffsetY=1.5,NBTTag=(Motion=#motionFromDirection(#pYaw,#pPitch,1.5),item=(id=web,Count=1),impact=["type=fill,ID=web,size=(2,2,2)"])@luck=2@chance=0.5
+
+
+/ Web
+type=entity,ID=LuckyProjectile,pos=#pExactPos,posOffsetY=1.5,NBTTag=(Motion=#motionFromDirection(#pYaw,#pPitch,1.5),item=(id=web,Count=1),impact=["type=command,ID=\"fill ~ ~ ~ ~ ~1 ~ web 0 keep\""])@luck=2@chance=0.5
+
+
+/ Knockback
+group(type=effect,ID=special_knockback,range=6,excludePlayer=true,power=1.8,pos=#pPos,delay=0.1;type=particle,ID=explode,size=(1.0,0.3,1.0),particleAmount=500,pos=#pExactPos)@luck=2
+
+/ Launch
+//group(type=effect,ID=potioncore:launch,amplifier=1,target=hitEntity;type=particle,ID=explode,size=(0.5,0.5,0.5),particleAmount=500)@luck=2
+
+/ Perplexity
+//group(type=effect,ID=potioncore:perplexity,target=hitEntity,duration=5;type=particle,ID=witchMagic,size=(0.5,0.5,0.5),particleAmount=500)@luck=2
+
+/ Disorganization
+//group(type=effect,ID=potioncore:disorganization,target=hitEntity;type=particle,ID=happyVillager,size=(0.5,0.5,0.5),particleAmount=500)@luck=2
+
+/ Weight
+//group(type=effect,ID=potioncore:weight,target=hitEntity,duration=10;type=particle,ID=largesmoke,size=(0.5,0.5,0.5),particleAmount=500)@luck=2
+
+
+//type=entity,ID=lootplusplus.ThrownItem,pos=#pExactPos,posOffsetY=1.5,NBTTag=(ItemThrown=lootplusplus:fire.fire,Motion=#motionFromDirection(#pYaw+#rand(-10,10),#pPitch+#rand(-10,10), 1.0)),amount=5,delay=#rand(0.0,2.0)@luck=2@chance=10
+//type=entity,ID=lootplusplus.ThrownItem,pos=#pExactPos,posOffsetY=1.5,NBTTag=(ItemThrown=lootplusplus:fire.soul_fire,Motion=#motionFromDirection(#pYaw+#rand(-10,10),#pPitch+#rand(-10,10), 1.0)),amount=5,delay=#rand(0.0,2.0)@luck=2@chance=0.5
+//type=entity,ID=lootplusplus.ThrownItem,pos=#pExactPos,posOffsetY=1.5,NBTTag=(ItemThrown=lootplusplus:fire.blaze_zepter_proj,Motion=#motionFromDirection(#pYaw+#rand(-10,10),#pPitch+#rand(-10,10), 1.0)),amount=5,delay=#rand(0.0,2.0)@luck=2@chance=5
+//type=entity,ID=lootplusplus.ThrownItem,pos=#pExactPos,posOffsetY=1.5,NBTTag=(ItemThrown=lootplusplus:fire.ghast_proj,Motion=#motionFromDirection(#pYaw+#rand(-10,10),#pPitch+#rand(-10,10), 1.0)),amount=5,delay=#rand(0.0,2.0)@luck=2@chance=2
+
+
+type=nothing@luck=-2@chance=160
+type=nothing@luck=-1@chance=120
+type=nothing@luck=0@chance=100
+type=nothing@luck=1@chance=80
+type=nothing@luck=2@chance=50
+
+
+
+
+
+
+
+
+
+

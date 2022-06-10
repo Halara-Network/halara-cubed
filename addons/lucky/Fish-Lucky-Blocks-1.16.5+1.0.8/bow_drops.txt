@@ -1,0 +1,23 @@
+// Pufferfish
+type=entity,ID=lucky:lucky_projectile,pos=#bowPos,NBTTag=(Motion=#bowMotion,item=(id=pufferfish),damage=7.0,impact=["type=entity,ID=pufferfish"])@luck=1
+
+// Cod
+type=entity,ID=lucky:lucky_projectile,pos=#bowPos,NBTTag=(Motion=#bowMotion,item=(id=cod),damage=5.0,impact=["type=entity,ID=cod"])@luck=1
+
+// Salmon
+type=entity,ID=lucky:lucky_projectile,pos=#bowPos,NBTTag=(Motion=#bowMotion,item=(id=salmon),damage=5.0,impact=["type=entity,ID=salmon"])@luck=1
+
+// Tropical Fish
+type=entity,ID=lucky:lucky_projectile,pos=#bowPos,NBTTag=(Motion=#bowMotion,item=(id=tropical_fish),damage=5.0,impact=["type=entity,ID=tropical_fish"])@luck=1
+
+// Explosive Pufferfish
+type=entity,ID=lucky:lucky_projectile,pos=#bowPos,NBTTag=(Motion=#bowMotion,item=(id=pufferfish),trail=(frequency=0.2,drops=["type=particle,ID=smoke)"]),damage=5.0,impact=["type=explosion,damage=5,fire=true"])@luck=2
+
+// Omega Explosive Pufferfish
+type=entity,ID=lucky:lucky_projectile,pos=#bowPos,NBTTag=(Motion=#bowMotion,item=(id=pufferfish),trail=(frequency=0.2,drops=["type=particle,ID=lava)"]),damage=5.0,impact=["type=explosion,damage=15,fire=true"])@luck=2
+
+// Regular Arrow
+type=entity,ID=arrow,pos=#bowPos,NBTTag=(Motion=#bowMotion,Color=-1)@chance=20@luck=0
+
+// Guardian Shot
+type=entity,ID=guardian,pos=#bowPos,NBTTag=(Motion=#bowMotion,Color=-1)@chance=5@luck=-1

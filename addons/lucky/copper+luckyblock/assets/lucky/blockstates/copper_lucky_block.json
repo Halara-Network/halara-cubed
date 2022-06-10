@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "lucky:block/copper_lucky_block" }
+    }
+}

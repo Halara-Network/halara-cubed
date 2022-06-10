@@ -1,0 +1,63 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "lucky:items/launch_stage_1"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"pulling": 1
+			},
+			"model": "item/bow_pulling_0"
+		},
+		{
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.65
+			},
+			"model": "item/bow_pulling_1"
+		},
+		{
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.9
+			},
+			"model": "item/bow_pulling_2"
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [44, 95, 0],
+			"translation": [-0.5, 16.5, 2],
+			"scale": [2, 2, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [44, -95, 0],
+			"translation": [0.75, 16.5, 2],
+			"scale": [2, 2, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -55, 64],
+			"translation": [1.5, 12.25, -8],
+			"scale": [1.5, 1.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -90, -27],
+			"translation": [7.5, 7.75, -4.5],
+			"scale": [1.5, 1.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 8, 0],
+			"scale": [1.2, 1.2, 0.8]
+		},
+		"gui": {
+			"translation": [1.25, 1.25, 0],
+			"scale": [1.125, 1.125, 1.125]
+		},
+		"fixed": {
+			"translation": [0, 0, 0.25],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}

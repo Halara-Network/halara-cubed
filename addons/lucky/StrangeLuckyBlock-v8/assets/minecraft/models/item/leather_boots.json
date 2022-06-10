@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/leather_boots"
+  },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 23435846
+            },
+            "model": "lucky:item/strange_bedrock_boots"
+        }
+	]
+}

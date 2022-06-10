@@ -1,0 +1,2 @@
+gbg,blb,gbg,g,gold_ingot,l,lucky:lucky_block,b,blaze_powder
+bgb,glg,bgb,g,gold_ingot,l,lucky:lucky_block,b,blaze_powder

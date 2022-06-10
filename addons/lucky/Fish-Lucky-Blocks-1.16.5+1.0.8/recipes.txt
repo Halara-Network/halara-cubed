@@ -1,0 +1,2 @@
+/craft by placing lucky block in center and prismarine and fish around
+dwd,wlw,dwd,d,minecraft:prismarine,w,fish,l,lucky:lucky_block

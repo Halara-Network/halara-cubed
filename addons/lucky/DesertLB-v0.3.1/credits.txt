@@ -1,0 +1,8 @@
+Desert Lucky Block by Xanol Resagan
+All things are deserted in this lucky block addon!
+Submission for the first ever Lucky Jam in the Lucky Block Central discord server.
+
+Desert Lucky Block Crafting Recipe:
+    [LAPIS BLOCK]     [CHISELED SANDSTONE]     [LAPIS BLOCK]
+ [CHISELED SANDSTONE]    [LUCKY BLOCK]     [CHISELED SANDSTONE]
+     LAPIS BLOCK]     [CHISELED SANDSTONE]     [LAPIS BLOCK]

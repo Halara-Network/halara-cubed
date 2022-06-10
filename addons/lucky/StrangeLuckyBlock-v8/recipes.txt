@@ -1,0 +1,3 @@
+/ craft with dragon's breath and lily of the valley around a lucky block
+vdv,dld,vdv,d,dragon_breath,l,lucky:lucky_block,v,lily_of_the_valley
+dvd,vlv,dvd,d,dragon_breath,l,lucky:lucky_block,v,lily_of_the_valley

@@ -1,0 +1,4 @@
+ID=golden_carrot@luck=0@chance=2
+ID=carrot@luck=-2@chance=4
+ID=carrot,NBTTag=(Enchantments=[(id=0,lvl=1)])@luck=1
+ID=golden_carrot,NBTTag=(Enchantments=[(id=0,lvl=1)])@luck=2@chance=0.5

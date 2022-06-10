@@ -1,0 +1,41 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "lucky:items/neptunes_blade"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-87, 87, 127],
+			"translation": [-0.25, 16.25, -0.25],
+			"scale": [2, 2, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-87, -87, -127],
+			"translation": [0.25, 16.25, -0.25],
+			"scale": [2, 2, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [-87, 87, 151],
+			"translation": [4.25, 12.75, -0.25],
+			"scale": [2, 2, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-87, -87, -151],
+			"translation": [4.25, 12.75, -0.25],
+			"scale": [2, 2, 1]
+		},
+		"ground": {
+			"translation": [2.25, 8, 0],
+			"scale": [1.2, 1.2, 0.8]
+		},
+		"gui": {
+			"translation": [4.75, 4.75, 0],
+			"scale": [1.6, 1.6, 1]
+		},
+		"fixed": {
+			"translation": [4.5, 4.75, 0.25],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}

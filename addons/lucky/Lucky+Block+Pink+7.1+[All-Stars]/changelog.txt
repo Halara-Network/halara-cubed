@@ -1,0 +1,140 @@
+WARNING: Uses Lucky Block for Minecraft 1.18.1 (Version 11) as base although 1.18.x should work just fine
+WARNING: If texture doesn't work after restarting minecraft, please download the additional file and put it in your resource packs folder, especially when swapping languages
+WARNING: Translations may not be 100% accurate, please let me know in the comments if a translation is wrong!
+
+Additions:
++35 Drops
++6 Structures
++Reintroduction of Phantom Force from Lucky Block Pink 6.6 [One Thousand Drops] and earlier.
++Reintroduction of the popular Baby Herobrine from Lucky Block Pink 6.5 [Hell'o World] and earlier, though with some changes.
++Reintroduction of Ultra Pumpkin rom Lucky Block Pink [Sword, Bow, and Potion Update Mini Update] and earlier with some tweaks!
++Reintroduction of the Weird Tower from Lucky Block Pink [Sword, Bow, and Potion Update Mini Update] and earlier with some tweaks!
++Reintroduction of the popular "Ultimate Wish" wishing well from Lucky Block Pink 6.6 [One Thousand Drops] and earlier, though with some changes.
++Reintroduction of the popular "Lightning Wish" wishing well from Lucky Block Pink 6.4 [The Restructure Update] and earlier, though with some changes.
++Reintroduction of the Lucky Dungeon from Lucky Block Pink 1 Year Anniversary Edition and earlier completely reimagined and is now known as Deepslate Dungeon!
++Reintroduction of the Pink Death Dungeon from Lucky Block Pink [Sword, Bow, and Potion Update Mini Update] and earlier with some tweaks and is now known as Pink Dungeon!
++Reintroduction of the Pink Skeleton Death from Lucky Block Pink [Sword, Bow, and Potion Update Mini Update] and earlier with some tweaks and is now known as Pink Skeleton Trap!
++Reintroduction of the Pink Death Dungeon-1 from Lucky Block Pink [Sword, Bow, and Potion Update Mini Update] and earlier with some tweaks and is now known as Pink Death Dungeon!
++Монгол (Mongol) Translation
++한국어 (Hangugeo) Translation
++Русский (Russkiy) Translation
++简体中文 (中国) (Jiǎntǐ Zhōngwén (Zhōngguó)) Translation
++繁體中文 (台灣) (Fántǐ Zhōngwén (Táiwān)) Translation
++繁體中文 (香港) (Fàahntái Jūngmàhn (Hēunggóng)) Translation
++ไทย (thay) Translation
++Български (България) Translation
++Afrikaans Translation
++اللغة العربية (alLuġah al'Arabiyye) Translation
++Dansk (Danmark) Translation
++tlhIngan Hol (tlhIngan wo') Translation
++Quenya Translation
+
+File Changes:
+*Added properties.txt.
+*Reorganised the Drops file again.
+*Updated Wacky Worlds Parkour Demo to change the barrier blocks to glass.
+
+Drop Changes:
+*Changed the luck value of Sand from 0 to -1.
+*Changed the luck value of Chorus Fruit from 0 to 1.
+*Changed the luck value of Singular Fox from 0 to -1.
+*Changed Sand to drop 16-64 Sand instead of 4-16 Sand.
+*Changed the luck value of Fox Mob Circle from 0 to -1.
+*Changed Scute to drop 2-8 Scutes instead of 8-16 Scutes.
+*Changed the luck value of Slime Block Fill from 0 to -1.
+*Changed the luck value of Singular Snow Fox from 0 to -1.
+*Changed Confused? to drop 16-64 Maps instead of 1-64 Maps.
+*Changed Hoglin Mob Circle to spawn 2-8 Hoglins instead of 4-16.
+*Changed Zoglin Mob Circle to spawn 2-8 Zoglins instead of 4-16.
+*Changed Awesome Wish to drop 4-16 Sponges instead of 5-15 Sponges.
+*Changed Soul Soil to drop 16-64 Soul Soils instead of 4-16 Soul Soil.
+*Changed Thrown Eggs + Iron Blocks to drop 4 Gold Blocks instead of 8.
+*Changed Thrown Eggs + Iron Blocks to drop 4 Iron Blocks instead of 8.
+*Changed Wish Came True to drop 4-16 Diamonds instead of 20-30 Diamonds.
+*Changed Are you lost? to drop 16-64 Compasses instead of 1-64 Compasses.
+*Changed Sculk Sensor to drop 2-8 Sculk Sensors instead of 1 Sculk Sensor.
+*Changed Smoker + Charcoal to drop 2-8 Charcoal instead of 16-32 Charcoal.
+*Changed Chorus Fruit to drop 1-4 Chorus Fruit instead of 4-16 Chorus Fruit.
+*Changed Nether Quartz Ore to drop 16-64 Nether Quartz Ore instead of 4-16 Nether Quartz Ore.
+*Changed Fishing Rod + 10-20 Random Fish to drop 8-32 Random Fish instead of 10-20 Random Fish.
+*Changed This is a Bad Sign to drop 16-64 This is a Bad Sign instead of 1-64 This is a Bad Sign.
+*Changed It's Balanced Because It Takes Effort to drop 16-64 Clay Balls instead of 8-32 Clay Balls.
+*Changed Vex Mob Circle to spawn 2-8 Vexes instead of 8-16 Vexes, including Pink Love Potion version.
+*Updated Final Wish to have a Chance value of 0.2.
+*Updated the name of Are you lost? to Are You Lost?.
+*Updated Ravager + Evoker to have a chance Value of 0.4.
+*Updated Gravel Fill Command to start at a higher height.
+*Updated Rimuru Tempest to turn the difficulty into hard.
+*Updated Ravager + Pillager to have a chance Value of 0.4.
+*Updated Ravager + Vindicator to have a chance Value of 0.4.
+*Updated some sturcture's positions to be less far from the player.
+*Updated Flying AZ to have a Zombie Horse instead of Skeleton Horse.
+*Updated Flying Bob to have a Zombie Horse instead of Skeleton Horse.
+*Changed Falling TNT + Primed TNT's Primed TNT have a position offset of 1.
+*Updated the name of Probably legal to Probably Legal to Sell in Restaurants.
+*Updated all falling blocks which summons mobs to have a position offset of 2.
+*Updated Kill To Max Out Your Level in 300 Years to turn the difficulty into hard.
+*Updated Falling Obisdian and End Crystal's End Crystal's position to be 1 higher.
+*Updated the name of Insert a baaaaaaaa'd pun here to Insert Baaaaaaaa'd Pun Here.
+*Updated the EXPLOSION!!!!!!!!!!!!!!!!!!! message's tellraw to be @a instead of @p.
+*Updated some fills to be bigger, like magma block, slime block, powder snow, etc...
+*Updated Falling Powered Rail and Minecart's Minecart to have a delay of 1 rather than 3.
+*Updated Falling Obisdian and End Crystal's End Crystal to have a delay of 1 rather than 3.
+
+Bug Fixes:
+FIXED Gamers structure not working.
+FIXED Spin Like The Wind? Drop, not working.
+FIXED Flint and Steel and TNT group not working.
+FIXED Transgender Pride Flag banner not working.
+FIXED Code Redundancy in Falling Bedrock + Mobs' drop.
+FIXED Spin Like The Wind? Drop, having as #pName. instead of at #pName.
+
+Removed:
+-Hunter.
+-Taylor.
+-Dracula
+-Flying Boo.
+-Barrel Pole.
+-Smoker Pole.
+-Furnace Pole.
+-Flying Taylor.
+-Red Sand drop.
+-Flying Dracula.
+-Panda Mob Tower.
+-Evoker Mob Circle.
+-Rabbit Mob Circle.
+-Sand + Water Pole.
+-Sand Fill Command.
+-Anvil Falling Pole.
+-Blast Furnace Pole.
+-Flying Drowned Bob.
+-Monster Apocalyple.
+-Ravager Mob Circle.
+-Armour Wishing Well.
+-Flying Deserted Bob.
+-Separate Cello Drop.
+-Separate Viola Drop.
+-Smithing Table Pole.
+-Weapon Wishing Well.
+-Big Rabbit Pet Group.
+-Fletching Table Pole.
+-Separate Violin Drop.
+-Railroad Wishing Well.
+-Cartography Table Pole.
+-Glistering Melon Slice.
+-Separate /time set day.
+-Uncoloured Candle Drop.
+-Separate /time set noon.
+-Separate /time set night.
+-Separate Double Bass Drop.
+-Separate /time set midnight.
+-Thrown Eggs + Diamond Blocks.
+-Trident Mob Circle for not working as intended.
+
+Notes:
+First update in March since Lucky Block Pink 5.1 which released on March 17th, 2017.
+This update introduces some drops which affect multiple entities, they might be removed in the future, but I want to see how it goes.
+The amount of drops added and removed in this update, balanced each other out. Meaning this update as same amount of drops as Lucky Block Pink 7.0 [Did Somebody Say Update].
+This update features the oldest reintroduction of a drop to date when adjusted for time, being the Lucky Dungeon from Lucky Block Pink 1 Year Anniversary Edition and earlier.
+This update is up there with Lucky Block Pink 2.0 V2, Lucky Block Pink 6.1 [Blend of New and Old Update], and Lucky Block Pink 6.9 [Combat and Conquer] for most drops readded in a single update.
+My main goals for this update was to focus on adding some more languages, continue the trend of focusing on better quality drops and add less overall than new ones, and focus on readding older removed drops which were pretty good and liked, but needed touching up to modern standards thus making it an "All-Stars" update.

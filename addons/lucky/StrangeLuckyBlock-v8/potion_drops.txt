@@ -1,0 +1,1 @@
+group(type=explosion,radius=100,fire=true;type=entity,ID=lightning_bolt,amount=100;type=block,ID=)

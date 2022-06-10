@@ -1,0 +1,6 @@
+Shield:
+- Lucky Fish Shield: 590324243
+- Aquamarine Shield: 21498732
+- Neptune's Shield: 345287904
+Diamond Tools:
+- Aquamarine Tools: 42354657
