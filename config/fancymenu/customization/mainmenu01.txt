@@ -227,14 +227,14 @@ customization {
 
 customization {
   orientation = top-centered
-  basecolor = #ffff00
+  basecolor = #3EBBFF
   shadow = true
   splashfilepath = halara\splash.txt
-  rotation = -10.0
-  x = 86
+  rotation = 0.0
+  x = -27
   actionid = e537eae2-e916-4220-a4f6-5ea10d9598e41653286835223
   action = addsplash
-  y = 71
+  y = 75
   scale = 1.0
   refresh = true
   bouncing = true
