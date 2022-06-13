@@ -17,10 +17,10 @@ customization {
   path = halara/warning.png
   orientation = mid-centered
   x = -139
-  width = 279
+  width = 270
   action = addtexture
   actionid = c71936a1-e8a1-465d-bfaa-cb0ebfc429cf1654633938637
   y = 12
-  height = 53
+  height = 60
 }
 
