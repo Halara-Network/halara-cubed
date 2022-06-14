@@ -20,6 +20,29 @@ customization {
 }
 
 customization {
+  identifier = %id=604346%
+  orientation = mid-centered
+  x = 104
+  action = movebutton
+  y = -21
+}
+
+customization {
+  identifier = %id=604346%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=604346%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = halara\buttons\supplementaries\1.png
+  backgroundnormal = halara\buttons\supplementaries\0.png
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   orientation = mid-centered
   x = -100

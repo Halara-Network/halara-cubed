@@ -47,6 +47,11 @@
     "harvest_tool_new_line": false,
     "trapped_chest": true
   },
+  "darkpaintings": {
+    "show_artist": true,
+    "show_id": false,
+    "show_title": true
+  },
   "waila": {
     "show_registry": false,
     "show_states": false,

@@ -33,7 +33,9 @@
       "ambient": [],
       "water_creature": [],
       "water_ambient": [],
-      "misc": []
+      "misc": [],
+      "axolotls": [],
+      "underground_water_creature": []
     },
     "spawn_costs": {},
     "player_spawn_friendly": false
