@@ -1,5 +1,5 @@
 <p align="center">
-  <src="https://i.imgur.com/s4UqLLe.png">
+  <img src="https://i.imgur.com/s4UqLLe.png">
 </p>
 
 ![](https://cf.way2muchnoise.eu/full_halara-cubed_downloads.svg) ![](https://cf.way2muchnoise.eu/versions/halara-cubed.svg) ![](https://img.shields.io/badge/mod%20loader-forge-1976d2?style=flat-square) ![](https://img.shields.io/badge/environment-client-1976d2?style=flat-square)
