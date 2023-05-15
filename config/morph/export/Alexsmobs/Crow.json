@@ -1,9 +1,0 @@
-{
-  "author": "CursedImpulse",
-  "forEntity": "alexsmobs:crow",
-  "traits": [
-    {
-      "type": "abilityFlight"
-    }
-  ]
-}

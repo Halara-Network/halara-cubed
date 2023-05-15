@@ -1,0 +1,9 @@
+
+.curseclient
+resourcepacks/*
+saves/*
+options.txt
+usercache.json
+usernamecache.json
+servers.dat
+servers.dat_old

@@ -1,0 +1,103 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  original_pos_size_calculation = true
+  x = 105
+  width = 270
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = 894867de-9260-4e42-89c6-9ad3de2d3efc1684124445908
+  y = 102
+  height = 66
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = 5cf4dae3-0afb-4d68-bc13-f83c441e4b391684124445911
+  y = -1000000
+  height = 0
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  original_pos_size_calculation = true
+  x = 112
+  width = 256
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = c0b3d784-5049-4bf9-85fe-c644e08abd3b1684124445911
+  y = 208
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  shape = rectangle
+  color = B7B7B7
+  x = 0
+  width = %guiwidth%
+  action = addshape
+  actionid = 3b79c544-8a21-49cd-9f65-08edbfafe8cd1684125918003
+  y = 0
+  height = %guiheight%
+}
+
+customization {
+  path = halara/title-loading.png
+  orientation = mid-centered
+  x = -135
+  width = 270
+  action = addtexture
+  actionid = 226187e6-900a-4093-a207-3d1f90bbb2ec1684124457468
+  y = -33
+  height = 66
+}
+
+customization {
+  orientation = top-left
+  basecolor = #ffff00
+  shadow = true
+  splashfilepath = halara/tips.txt
+  rotation = 20.0
+  scale = 0.0
+  refresh = false
+  bouncing = true
+  vanilla-like = false
+  x = 157
+  actionid = 4d3061f3-a117-4c5e-8cc9-9183815373151684124544833
+  action = addsplash
+  y = 86
+}
+
+customization {
+  orientation = bottom-centered
+  background_color = #ABC8F7
+  x = -135
+  width = 270
+  bar_color = #5295FF
+  action = custom_layout_element:drippy_custom_loading_bar
+  actionid = 6ebe29e6-6655-4010-8510-d11f41b892341684125715833
+  y = -72
+  progress_for_element_orientation = false
+  direction = right
+  height = 10
+}
+
