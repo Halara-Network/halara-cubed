@@ -2,6 +2,7 @@
 .curseclient
 resourcepacks/*
 saves/*
+logs/*
 options.txt
 usercache.json
 usernamecache.json
