@@ -12,3 +12,12 @@ net.minecraft.client.gui.screens.GenericDirtMessageScreen {
 de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 }
 
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
