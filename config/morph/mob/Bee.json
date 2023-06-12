@@ -1,0 +1,9 @@
+{
+  "forEntity": "minecraft:bee",
+  "traits": [
+    {
+      "type": "abilityFlight",
+      "slowdownInWater": true
+    }
+  ]
+}

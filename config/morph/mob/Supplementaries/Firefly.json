@@ -1,0 +1,9 @@
+{
+  "forEntity": "supplementaries:firefly",
+  "traits": [
+    {
+      "type": "abilityFlight",
+      "slowdownInWater": true
+    }
+  ]
+}

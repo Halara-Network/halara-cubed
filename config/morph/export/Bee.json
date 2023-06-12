@@ -1,0 +1,9 @@
+{
+  "author": "CursedImpulse",
+  "forEntity": "minecraft:bee",
+  "traits": [
+    {
+      "type": "abilityFlight"
+    }
+  ]
+}

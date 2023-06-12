@@ -68,6 +68,12 @@ B:show_unicode_warning = 'true';
 F:uiscale = '3.0';
 
 
+##[mainmenu]
+
+S:copyrightposition = 'bottom-right';
+S:copyrightcolor = '#ffffff';
+
+
 ##[compatibility]
 
 B:allow_level_registry_interactions = 'true';

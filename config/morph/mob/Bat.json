@@ -1,0 +1,9 @@
+{
+  "forEntity": "minecraft:bat",
+  "traits": [
+    {
+      "type": "abilityFlight",
+      "slowdownInWater": true
+    }
+  ]
+}

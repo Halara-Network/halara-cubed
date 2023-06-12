@@ -2,40 +2,48 @@
   "general": {
     "displayTooltip": true,
     "shiftForDetails": false,
-    "hideShiftText": false,
     "displayMode": "TOGGLE",
-    "hideFromPlayerList": true,
     "hideFromDebug": true,
+    "iconMode": "TOP",
     "enableTextToSpeech": false,
-    "rateLimit": 250
+    "maxHealthForRender": 40,
+    "maxHeartsPerLine": 10,
+    "fluldMode": "NONE",
+    "reachDistance": 0.0
   },
   "overlay": {
-    "position": {
-      "align": {
-        "x": "CENTER",
-        "y": "TOP"
-      },
-      "anchor": {
-        "x": "CENTER",
-        "y": "TOP"
-      },
-      "x": 0,
-      "y": 0,
-      "bossBarsOverlap": false
-    },
+    "overlayPosX": 0.5,
+    "overlayPosY": 0.99,
+    "overlayAnchorX": 0.5,
+    "overlayAnchorY": 0.0,
+    "overlaySquare": false,
+    "flipMainHand": false,
     "color": {
-      "backgroundAlpha": 204,
-      "themes": [],
-      "activeTheme": "waila:vanilla"
-    },
-    "scale": 1.0
+      "alpha": 50,
+      "themes": [
+        {
+          "id": "waila:dark",
+          "backgroundColor": 1250067,
+          "gradientStart": 3684408,
+          "gradientEnd": 2368548,
+          "fontColor": 10526880
+        },
+        {
+          "id": "waila:vanilla",
+          "backgroundColor": 1048592,
+          "gradientStart": 5243135,
+          "gradientEnd": 2621567,
+          "fontColor": 10526880
+        }
+      ],
+      "activeTheme": "waila:dark"
+    }
   },
-  "formatter": {
-    "modName": "§9§o%s",
-    "blockName": "§f%s",
-    "fluidName": "§f%s",
-    "entityName": "§f%s",
-    "registryName": "§8%s"
-  },
-  "configVersion": 1
+  "formatting": {
+    "modName": "\\u00A79\\u00A7o%s",
+    "blockName": "\\u00A7f%s",
+    "fluidName": "\\u00A7f%s",
+    "entityName": "\\u00A7f%s",
+    "registryName": "\\u00A77[%s]"
+  }
 }
