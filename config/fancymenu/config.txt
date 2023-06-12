@@ -6,7 +6,7 @@ B:forcefullscreen = 'false';
 [If menu background sounds added by FancyMenu should be played or not.]
 B:playbackgroundsounds = 'true';
 [A minecraft restart is required after changing this value.]
-B:enablehotkeys = 'true';
+B:enablehotkeys = 'false';
 B:playmenumusic = 'true';
 S:variables_to_reset_on_launch = '';
 B:showdebugwarnings = 'true';
@@ -70,7 +70,7 @@ F:uiscale = '3.0';
 
 ##[mainmenu]
 
-S:copyrightposition = 'bottom-right';
+S:copyrightposition = 'bottom-centered';
 S:copyrightcolor = '#ffffff';
 
 

@@ -1,7 +1,7 @@
 type = menu
 
 customization-meta {
-  identifier = net.minecraft.client.gui.screens.TitleScreen
+  identifier = net.minecraft.client.gui.screen.MainMenuScreen
   randomgroup = 1
   renderorder = foreground
   randommode = false
@@ -16,7 +16,7 @@ customization {
 customization {
   orientation = top-left
   hidden = false
-  x = 106
+  x = 250
   width = 268
   action = deep_customization_element:title_screen_forge_top
   actionid = 403bf7fd-c15b-48f2-aff4-25068bef7c641684124638820
@@ -49,11 +49,11 @@ customization {
 customization {
   orientation = top-left
   hidden = false
-  x = 343
+  x = 487
   width = 13
   action = deep_customization_element:title_screen_realms_notification
   actionid = da07bd81-da40-465b-b64d-4b7c95ba4e761684124638821
-  y = 164
+  y = 202
   height = 13
 }
 
@@ -90,44 +90,5 @@ customization {
   actionid = 243111fe-9e00-4fdd-a17d-43f9b6708ece1684124675795
   y = 30
   height = 52
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
-  orientation = bottom-right
-  x = -140
-  action = movebutton
-  y = -10
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
-  width = 140
-  action = resizebutton
-  height = 7
-}
-
-customization {
-  orientation = bottom-centered
-  enable_scrolling = true
-  shadow = true
-  scale = 0.5
-  source = Copyright Mojang AB. Do not distribute!
-  text_border = 0
-  case_mode = normal
-  source_mode = direct
-  line_spacing = 1
-  x = -55
-  width = 110
-  action = custom_layout_element:fancymenu_customization_item_text
-  actionid = d18529a9-e63d-4433-95da-601e5a17a3d21684125600903
-  y = -10
-  alignment = centered
-  height = 10
 }
 
