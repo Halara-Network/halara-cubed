@@ -9,8 +9,119 @@ customization-meta {
 }
 
 customization {
+  path = halara/background.png
+  action = texturizebackground
+}
+
+customization {
   keepaspectratio = false
   action = backgroundoptions
+}
+
+customization {
+  identifier = %id=604346%
+  orientation = mid-centered
+  x = 104
+  action = movebutton
+  y = -7
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -31
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = mid-centered
+  x = 104
+  action = movebutton
+  y = 29
+}
+
+customization {
+  identifier = %id=376322%
+  orientation = mid-centered
+  x = -124
+  action = movebutton
+  y = -31
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 29
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-centered
+  x = 2
+  action = movebutton
+  y = 29
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = mid-centered
+  x = -124
+  action = movebutton
+  y = 29
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -55
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = setbuttondescription
+  description = Singleplayer is not recommended with this modpack.
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -7
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  orientation = mid-centered
+  x = 2
+  action = movebutton
+  y = -7
+}
+
+customization {
+  identifier = %id=376346%
+  orientation = mid-centered
+  x = -124
+  action = movebutton
+  y = -7
 }
 
 customization {
@@ -48,7 +159,7 @@ customization {
 
 customization {
   orientation = top-left
-  hidden = false
+  hidden = true
   x = 487
   width = 13
   action = deep_customization_element:title_screen_realms_notification
@@ -90,5 +201,61 @@ customization {
   actionid = 243111fe-9e00-4fdd-a17d-43f9b6708ece1684124675795
   y = 30
   height = 52
+}
+
+customization {
+  slim = false
+  auto_skin = true
+  scale = 30
+  showname = true
+  follow_mouse = true
+  capeurl = http://textures.minecraft.net/texture/953cac8b779fe41383e675ee2b86071a71658f2180f56fbce8aa315ea70e2ed6
+  action = custom_layout_element:fancymenu_customization_player_entity
+  actionid = fb49ef65-7937-472d-918a-ba026bc2fd4f1686618266945
+  playername = Steve
+  bodyrotationx = 0.0
+  bodyrotationy = 0.0
+  auto_cape = true
+  is_baby = false
+  height = 54
+  orientation = mid-centered
+  copy_client_player = false
+  headrotationy = 0.0
+  headrotationx = 0.0
+  skinurl = http://textures.minecraft.net/texture/60a5bd016b3c9a1b9272e4929e30827a67be4ebb219017adbbc4a4d22ebd5b1
+  crouching = false
+  x = -180
+  width = 18
+  parrot_left_shoulder = false
+  y = -27
+  parrot = false
+}
+
+customization {
+  slim = false
+  auto_skin = true
+  scale = 30
+  showname = true
+  follow_mouse = true
+  capeurl = http://textures.minecraft.net/texture/953cac8b779fe41383e675ee2b86071a71658f2180f56fbce8aa315ea70e2ed6
+  action = custom_layout_element:fancymenu_customization_player_entity
+  actionid = 3c601030-882f-4ce7-85ca-684530f2536f1686618304194
+  playername = Steve
+  bodyrotationx = 0.0
+  bodyrotationy = 0.0
+  auto_cape = true
+  is_baby = false
+  height = 54
+  orientation = mid-centered
+  copy_client_player = false
+  headrotationy = 0.0
+  headrotationx = 0.0
+  skinurl = http://textures.minecraft.net/texture/60a5bd016b3c9a1b9272e4929e30827a67be4ebb219017adbbc4a4d22ebd5b1
+  crouching = false
+  x = 162
+  width = 18
+  parrot_left_shoulder = false
+  y = -27
+  parrot = false
 }
 

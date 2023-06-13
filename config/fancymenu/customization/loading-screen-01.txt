@@ -50,6 +50,28 @@ customization {
 
 customization {
   orientation = top-left
+  hidden = false
+  x = 10
+  width = 300
+  action = deep_customization_element:drippy_overlay_forge_memory
+  actionid = c37ccddf-549b-43fa-b422-a37c49130d331686616557113
+  y = 10
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 10
+  width = 300
+  action = deep_customization_element:drippy_overlay_forge_log
+  actionid = 0e1ffd3a-305f-42d7-849a-24812aaa52751686616557113
+  y = 361
+  height = 50
+}
+
+customization {
+  orientation = top-left
   shape = rectangle
   color = 1E1E1E
   x = 0
@@ -58,17 +80,6 @@ customization {
   actionid = 3b79c544-8a21-49cd-9f65-08edbfafe8cd1684125918003
   y = 0
   height = %guiheight%
-}
-
-customization {
-  path = halara/title-loading.png
-  orientation = mid-centered
-  x = -135
-  width = 270
-  action = addtexture
-  actionid = 226187e6-900a-4093-a207-3d1f90bbb2ec1684124457468
-  y = -33
-  height = 66
 }
 
 customization {
@@ -88,16 +99,18 @@ customization {
 }
 
 customization {
-  orientation = bottom-centered
+  orientation = mid-centered
+  background_texture = halara/title-loading.png
+  bar_texture = halara/title-loaded.png
+  progress_for_element_orientation = false
   background_color = #ABC8F7
   x = -135
   width = 270
   bar_color = #5295FF
   action = custom_layout_element:drippy_custom_loading_bar
-  actionid = 6ebe29e6-6655-4010-8510-d11f41b892341684125715833
-  y = -72
-  progress_for_element_orientation = false
+  actionid = fff283bf-274e-4db3-934c-4a7adfb8ab141686616566477
+  y = -33
   direction = right
-  height = 10
+  height = 66
 }
 
