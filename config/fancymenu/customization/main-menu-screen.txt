@@ -199,30 +199,30 @@ customization {
   width = 211
   action = addtexture
   actionid = 243111fe-9e00-4fdd-a17d-43f9b6708ece1684124675795
-  y = 30
+  y = 15
   height = 52
 }
 
 customization {
   slim = false
-  auto_skin = true
+  auto_skin = false
   scale = 30
   showname = true
   follow_mouse = true
-  capeurl = http://textures.minecraft.net/texture/953cac8b779fe41383e675ee2b86071a71658f2180f56fbce8aa315ea70e2ed6
+  capeurl = http://textures.minecraft.net/texture/2340c0e03dd24a11b15a8b33c2a7e9e32abb2051b2481d0ba7defd635ca7a933
   action = custom_layout_element:fancymenu_customization_player_entity
   actionid = fb49ef65-7937-472d-918a-ba026bc2fd4f1686618266945
-  playername = Steve
+  playername = CursedImpulse
   bodyrotationx = 0.0
   bodyrotationy = 0.0
-  auto_cape = true
+  auto_cape = false
   is_baby = false
   height = 54
   orientation = mid-centered
-  copy_client_player = false
+  copy_client_player = true
   headrotationy = 0.0
   headrotationx = 0.0
-  skinurl = http://textures.minecraft.net/texture/60a5bd016b3c9a1b9272e4929e30827a67be4ebb219017adbbc4a4d22ebd5b1
+  skinurl = http://textures.minecraft.net/texture/4783f7bdec4c78f5fe9f1eaa43e6428ec9249639f70de3b5887114efd4701e84
   crouching = false
   x = -180
   width = 18
@@ -233,24 +233,24 @@ customization {
 
 customization {
   slim = false
-  auto_skin = true
+  auto_skin = false
   scale = 30
   showname = true
   follow_mouse = true
-  capeurl = http://textures.minecraft.net/texture/953cac8b779fe41383e675ee2b86071a71658f2180f56fbce8aa315ea70e2ed6
+  capeurl = http://textures.minecraft.net/texture/2340c0e03dd24a11b15a8b33c2a7e9e32abb2051b2481d0ba7defd635ca7a933
   action = custom_layout_element:fancymenu_customization_player_entity
   actionid = 3c601030-882f-4ce7-85ca-684530f2536f1686618304194
-  playername = Steve
+  playername = CursedImpulse
   bodyrotationx = 0.0
   bodyrotationy = 0.0
-  auto_cape = true
+  auto_cape = false
   is_baby = false
   height = 54
   orientation = mid-centered
-  copy_client_player = false
+  copy_client_player = true
   headrotationy = 0.0
   headrotationx = 0.0
-  skinurl = http://textures.minecraft.net/texture/60a5bd016b3c9a1b9272e4929e30827a67be4ebb219017adbbc4a4d22ebd5b1
+  skinurl = http://textures.minecraft.net/texture/4783f7bdec4c78f5fe9f1eaa43e6428ec9249639f70de3b5887114efd4701e84
   crouching = false
   x = 162
   width = 18

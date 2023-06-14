@@ -3,13 +3,10 @@ type = customizablemenus
 de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 }
 
-net.minecraft.client.gui.screens.TitleScreen {
+net.minecraft.client.gui.screen.MainMenuScreen {
 }
 
-net.minecraft.client.gui.screens.GenericDirtMessageScreen {
-}
-
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+net.minecraft.client.gui.screen.DirtMessageScreen {
 }
 
 de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
@@ -82,6 +79,60 @@ de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 }
 
 de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+net.minecraft.client.gui.screen.OptionsScreen {
+}
+
+me.jellysquid.mods.sodium.client.gui.SodiumOptionsGUI {
+}
+
+net.minecraft.client.gui.screen.CustomizeSkinScreen {
+}
+
+net.minecraft.client.gui.screen.LanguageScreen {
+}
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+net.minecraftforge.fml.client.gui.screen.ModListScreen {
+}
+
+net.minecraft.client.gui.screen.PackScreen {
+}
+
+net.minecraft.client.gui.AccessibilityScreen {
+}
+
+net.minecraft.client.gui.screen.ChatOptionsScreen {
+}
+
+com.blamejared.controlling.client.gui.GuiNewControls {
+}
+
+net.minecraft.client.gui.screen.MouseSettingsScreen {
+}
+
+net.minecraft.client.gui.screen.OptionsSoundsScreen {
+}
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+net.minecraft.client.gui.screen.WorldSelectionScreen {
+}
+
+net.minecraft.client.gui.screen.MultiplayerScreen {
 }
 
 de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {

@@ -66,7 +66,7 @@ customization {
   width = 300
   action = deep_customization_element:drippy_overlay_forge_log
   actionid = 0e1ffd3a-305f-42d7-849a-24812aaa52751686616557113
-  y = 361
+  y = 220
   height = 50
 }
 
@@ -112,5 +112,24 @@ customization {
   y = -33
   direction = right
   height = 66
+}
+
+customization {
+  orientation = bottom-centered
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = We're preparing your experience.%n%Feel free to minimize the window; we'll ping you when it's ready.
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -200
+  width = 400
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 7293edc0-b30e-43f6-8324-0f58ac1e26431686712733168
+  y = -40
+  alignment = centered
+  height = 40
 }
 
